@@ -1,0 +1,14 @@
+C:\Users\Nathan\Desktop\Coding\Coding_Projects\PlaylistProject\bin\Debug\net8.0\PlaylistProject.exe
+C:\Users\Nathan\Desktop\Coding\Coding_Projects\PlaylistProject\bin\Debug\net8.0\PlaylistProject.deps.json
+C:\Users\Nathan\Desktop\Coding\Coding_Projects\PlaylistProject\bin\Debug\net8.0\PlaylistProject.runtimeconfig.json
+C:\Users\Nathan\Desktop\Coding\Coding_Projects\PlaylistProject\bin\Debug\net8.0\PlaylistProject.dll
+C:\Users\Nathan\Desktop\Coding\Coding_Projects\PlaylistProject\bin\Debug\net8.0\PlaylistProject.pdb
+C:\Users\Nathan\Desktop\Coding\Coding_Projects\PlaylistProject\obj\Debug\net8.0\PlaylistProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathan\Desktop\Coding\Coding_Projects\PlaylistProject\obj\Debug\net8.0\PlaylistProject.AssemblyInfoInputs.cache
+C:\Users\Nathan\Desktop\Coding\Coding_Projects\PlaylistProject\obj\Debug\net8.0\PlaylistProject.AssemblyInfo.cs
+C:\Users\Nathan\Desktop\Coding\Coding_Projects\PlaylistProject\obj\Debug\net8.0\PlaylistProject.csproj.CoreCompileInputs.cache
+C:\Users\Nathan\Desktop\Coding\Coding_Projects\PlaylistProject\obj\Debug\net8.0\PlaylistProject.dll
+C:\Users\Nathan\Desktop\Coding\Coding_Projects\PlaylistProject\obj\Debug\net8.0\refint\PlaylistProject.dll
+C:\Users\Nathan\Desktop\Coding\Coding_Projects\PlaylistProject\obj\Debug\net8.0\PlaylistProject.pdb
+C:\Users\Nathan\Desktop\Coding\Coding_Projects\PlaylistProject\obj\Debug\net8.0\PlaylistProject.genruntimeconfig.cache
+C:\Users\Nathan\Desktop\Coding\Coding_Projects\PlaylistProject\obj\Debug\net8.0\ref\PlaylistProject.dll
